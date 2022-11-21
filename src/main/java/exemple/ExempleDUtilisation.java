@@ -58,4 +58,9 @@ public class ExempleDUtilisation {
         monBandeau.sleep(3000);
         monBandeau.close();
     }
+    
+    
+    
+    
+    
 }
